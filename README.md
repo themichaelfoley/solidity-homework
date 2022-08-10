@@ -4,7 +4,7 @@
 
 To view the smart contract code click [Here](https://github.com/themichaelfoley/solidity-homework/blob/main/Instructions/Starter_Code/joint_savings.sol)
 
-To view the screenshots of the Execution Results click [Here]()
+To view the screenshots of the Execution Results click [Here](https://github.com/themichaelfoley/solidity-homework/tree/main/Instructions/Execution_Results)
 
 ![alt=“”](Images/20-5-challenge-image.png)
 
